@@ -29,7 +29,7 @@ The objective is to learn how to collect computer information, inspect network s
 
 ## Step-by-Step Instructions
 
-## Step 1: Open Command Prompt
+# Step 1: Open Command Prompt
 
 Click the Windows Start button.
 
@@ -39,11 +39,11 @@ Select Command Prompt.
 
 Keep the window open for the remaining steps.
 
-## Step 2: Check System Information
+# Step 2: Check System Information
 
 Enter:
 
-## systeminfo
+# systeminfo
 
 What this does:
 
@@ -51,11 +51,11 @@ Displays information about your computer, including the operating system, system
 
 Screenshot 1: Save a screenshot showing your system information.
 
-## Step 3: Check Your IP Address
+# Step 3: Check Your IP Address
 
 Enter:
 
-## ipconfig
+# ipconfig
 
 What this does:
 
@@ -63,11 +63,11 @@ Displays your computer's basic network configuration, including its IP address.
 
 Screenshot 2: Save a screenshot showing your IP configuration.
 
-## Step 4: View Detailed Network Information
+# Step 4: View Detailed Network Information
 
 Enter:
 
-## ipconfig /all
+# ipconfig /all
 
 What this does:
 
@@ -75,11 +75,11 @@ Displays additional network information, including your network adapter, DNS ser
 
 Screenshot 3: Save a screenshot showing the network information.
 
-## Step 5: Test Network Connectivity
+# Step 5: Test Network Connectivity
 
 Enter:
 
-## ping google.com
+# ping google.com
 
 What this does:
 
@@ -89,7 +89,7 @@ Look for replies and response times.
 
 Screenshot 4: Save a screenshot showing your ping results.
 
-## Step 6: Document Your Findings
+# Step 6: Document Your Findings
 
 Answer these questions:
 
@@ -103,7 +103,7 @@ What does the ping command help you troubleshoot?
 
 Were you able to successfully reach the test destination?
 
-## Screenshots
+# Screenshots
 
 Save your screenshots inside the screenshots folder.
 
@@ -117,7 +117,7 @@ Recommended filenames:
 
 - 04-ping-test.png
 
-## Skills Demonstrated
+# Skills Demonstrated
 
 - Windows troubleshooting
 
