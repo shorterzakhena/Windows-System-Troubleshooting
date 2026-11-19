@@ -52,3 +52,7 @@ Document your actual findings and whether each test was successful.
 ## Conclusion
 
 This lab provided hands-on experience using Windows tools to collect system information and troubleshoot basic network connectivity.
+
+
+
+**Author:** Zakhena Shorter IT Professional | Recent IT Graduate
