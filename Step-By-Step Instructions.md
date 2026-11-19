@@ -10,7 +10,7 @@ Select Command Prompt.
 
 Keep the window open for the remaining steps.
 
-# Step 2: Check System Information
+**Step 2: Check System Information**
 
 Enter:
 
@@ -22,7 +22,7 @@ Displays information about your computer, including the operating system, system
 
 Screenshot 1: Save a screenshot showing your system information.
 
-Step 3: Check Your IP Address
+**Step 3: Check Your IP Address**
 
 Enter:
 
@@ -34,7 +34,7 @@ Displays your computer's basic network configuration, including its IP address.
 
 Screenshot 2: Save a screenshot showing your IP configuration.
 
-Step 4: View Detailed Network Information
+**Step 4: View Detailed Network Information**
 
 Enter:
 
@@ -46,7 +46,7 @@ Displays additional network information, including your network adapter, DNS ser
 
 Screenshot 3: Save a screenshot showing the network information.
 
-Step 5: Test Network Connectivity
+**Step 5: Test Network Connectivity**
 
 Enter:
 
@@ -60,7 +60,7 @@ Look for replies and response times.
 
 Screenshot 4: Save a screenshot showing your ping results.
 
-Step 6: Document Your Findings
+**Step 6: Document Your Findings**
 
 Answer these questions:
 
