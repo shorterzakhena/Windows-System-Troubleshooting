@@ -43,8 +43,6 @@ The objective is to learn how to collect computer information, inspect network s
 
 ## What I Learned
 
-Complete this section after performing the lab.
-
 Explain what you learned about Windows system information, IP configurations, and network troubleshooting.
 
 ## Results
